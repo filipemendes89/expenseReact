@@ -1,3 +1,7 @@
+import { Container } from "@material-ui/core";
+
 export const Home = () => (
-    <h1>Home Page</h1>
+    <Container>
+        
+    </Container>
 )
